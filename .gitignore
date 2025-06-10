@@ -1,0 +1,24 @@
+# MacOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Homebrew specific
+*.bottle.*
+audit_exceptions/
+*.lock 
