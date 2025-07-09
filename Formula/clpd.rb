@@ -12,7 +12,7 @@ class Clpd < Formula
   end
 
   def install
-    bin.install "bin/clp"
+    bin.install "clp"
   end
 
   test do
